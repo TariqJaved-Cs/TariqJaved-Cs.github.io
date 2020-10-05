@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TariqJaved-Cs.github.io/static/css/main.8ced2fd3.chunk.css",
+    "main.js": "/TariqJaved-Cs.github.io/static/js/main.c322f299.chunk.js",
+    "main.js.map": "/TariqJaved-Cs.github.io/static/js/main.c322f299.chunk.js.map",
+    "runtime-main.js": "/TariqJaved-Cs.github.io/static/js/runtime-main.1824221d.js",
+    "runtime-main.js.map": "/TariqJaved-Cs.github.io/static/js/runtime-main.1824221d.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/TariqJaved-Cs.github.io/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.ddcc5d34.chunk.js": "/TariqJaved-Cs.github.io/static/js/2.ddcc5d34.chunk.js",
+    "static/js/2.ddcc5d34.chunk.js.map": "/TariqJaved-Cs.github.io/static/js/2.ddcc5d34.chunk.js.map",
+    "index.html": "/TariqJaved-Cs.github.io/index.html",
+    "precache-manifest.7420c83d3cafa91ae1a289dbfcf5e455.js": "/TariqJaved-Cs.github.io/precache-manifest.7420c83d3cafa91ae1a289dbfcf5e455.js",
+    "service-worker.js": "/TariqJaved-Cs.github.io/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/TariqJaved-Cs.github.io/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.8ced2fd3.chunk.css.map": "/TariqJaved-Cs.github.io/static/css/main.8ced2fd3.chunk.css.map",
+    "static/js/2.ddcc5d34.chunk.js.LICENSE.txt": "/TariqJaved-Cs.github.io/static/js/2.ddcc5d34.chunk.js.LICENSE.txt",
+    "static/media/download.webp": "/TariqJaved-Cs.github.io/static/media/download.4cb252f1.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1824221d.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.ddcc5d34.chunk.js",
+    "static/css/main.8ced2fd3.chunk.css",
+    "static/js/main.c322f299.chunk.js"
+  ]
+}
